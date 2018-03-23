@@ -1,0 +1,1 @@
+cmd /K "cd /d F:\Project\temp-projects\badminton-booking & python booking.py >> booking_result.txt"
