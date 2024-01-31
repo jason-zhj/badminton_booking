@@ -1,5 +1,5 @@
 # badminton_booking
-Toolkit for booking badminton courts automatically
+Toolkit for booking NTU badminton courts automatically
 
 ## Usage
 This toolkit is only for windows
